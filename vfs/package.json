@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "assert-never": "^1.4.0",
-    "chokidar": "^3.6.0",
+    "chokidar": "^4.0.3",
     "fs-extra": "^11.2.0"
   },
   "devDependencies": {
