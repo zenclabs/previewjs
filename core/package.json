@@ -39,7 +39,7 @@
     "html-escaper": "^3.0.3",
     "http-terminator": "^3.2.0",
     "pino": "^9.5.0",
-    "pino-pretty": "^11.2.1",
+    "pino-pretty": "^11.3.0",
     "rollup-plugin-friendly-type-imports": "^1.0.3",
     "ts-node": "^10.9.2",
     "tsconfig-paths": "^4.2.0",
