@@ -83,8 +83,8 @@ importers:
         specifier: ^9.5.0
         version: 9.5.0
       pino-pretty:
-        specifier: ^11.2.1
-        version: 11.2.1
+        specifier: ^13.0.0
+        version: 13.0.0
     devDependencies:
       typescript:
         specifier: ^5.7.2
@@ -130,8 +130,8 @@ importers:
         specifier: ^9.5.0
         version: 9.5.0
       pino-pretty:
-        specifier: ^11.2.1
-        version: 11.2.1
+        specifier: ^13.0.0
+        version: 13.0.0
       react:
         specifier: ^18.3.1
         version: 18.3.1
@@ -362,8 +362,8 @@ importers:
         specifier: ^9.5.0
         version: 9.5.0
       pino-pretty:
-        specifier: ^11.2.1
-        version: 11.2.1
+        specifier: ^13.0.0
+        version: 13.0.0
       rollup-plugin-friendly-type-imports:
         specifier: ^1.0.3
         version: 1.0.3
@@ -511,8 +511,8 @@ importers:
         specifier: ^9.5.0
         version: 9.5.0
       pino-pretty:
-        specifier: ^11.2.1
-        version: 11.2.1
+        specifier: ^13.0.0
+        version: 13.0.0
       preact:
         specifier: ^10.25.3
         version: 10.25.3
@@ -705,8 +705,8 @@ importers:
         specifier: ^9.5.0
         version: 9.5.0
       pino-pretty:
-        specifier: ^11.2.1
-        version: 11.2.1
+        specifier: ^13.0.0
+        version: 13.0.0
       react:
         specifier: ^18.3.1
         version: 18.3.1
@@ -2202,8 +2202,8 @@ importers:
         specifier: ^9.5.0
         version: 9.5.0
       pino-pretty:
-        specifier: ^11.2.1
-        version: 11.2.1
+        specifier: ^13.0.0
+        version: 13.0.0
       solid-js:
         specifier: ^1.9.3
         version: 1.9.3
@@ -2357,8 +2357,8 @@ importers:
         specifier: ^9.5.0
         version: 9.5.0
       pino-pretty:
-        specifier: ^11.2.1
-        version: 11.2.1
+        specifier: ^13.0.0
+        version: 13.0.0
       unbuild:
         specifier: ^2.0.0
         version: 2.0.0(typescript@5.7.2)
@@ -2661,8 +2661,8 @@ importers:
         specifier: ^9.5.0
         version: 9.5.0
       pino-pretty:
-        specifier: ^11.2.1
-        version: 11.2.1
+        specifier: ^13.0.0
+        version: 13.0.0
       rimraf:
         specifier: ^6.0.1
         version: 6.0.1
@@ -2843,8 +2843,8 @@ importers:
         specifier: ^9.5.0
         version: 9.5.0
       pino-pretty:
-        specifier: ^11.2.1
-        version: 11.2.1
+        specifier: ^13.0.0
+        version: 13.0.0
       rimraf:
         specifier: ^6.0.1
         version: 6.0.1
@@ -3140,8 +3140,8 @@ importers:
         specifier: ^9.5.0
         version: 9.5.0
       pino-pretty:
-        specifier: ^11.2.1
-        version: 11.2.1
+        specifier: ^13.0.0
+        version: 13.0.0
       pnpm:
         specifier: ^9.15.1
         version: 9.15.1
@@ -17252,8 +17252,8 @@ packages:
     resolution: {integrity: sha512-az8JbIYeN/1iLj2t0jR9DV48/LQ3RC6hZPpapKPkb84Q+yTidMCpgWxIT3N0flnBDilyBQ1luWNpOeJptjdp/g==}
     hasBin: true
 
-  pino-pretty@11.2.1:
-    resolution: {integrity: sha512-O05NuD9tkRasFRWVaF/uHLOvoRDFD7tb5VMertr78rbsYFjYp48Vg3477EshVAF5eZaEw+OpDl/tu+B0R5o+7g==}
+  pino-pretty@13.0.0:
+    resolution: {integrity: sha512-cQBBIVG3YajgoUjo1FdKVRX6t9XPxwB9lcNJVD5GCnNM4Y6T12YYx8c6zEejxQsU0wrg9TwmDulcE9LR7qcJqA==}
     hasBin: true
 
   pino-std-serializers@6.2.1:
@@ -46899,7 +46899,7 @@ snapshots:
       sonic-boom: 3.7.0
       strip-json-comments: 3.1.1
 
-  pino-pretty@11.2.1:
+  pino-pretty@13.0.0:
     dependencies:
       colorette: 2.0.20
       dateformat: 4.6.3
@@ -46909,9 +46909,8 @@ snapshots:
       joycon: 3.1.1
       minimist: 1.2.8
       on-exit-leak-free: 2.1.0
-      pino-abstract-transport: 1.2.0
+      pino-abstract-transport: 2.0.0
       pump: 3.0.0
-      readable-stream: 4.4.0
       secure-json-parse: 2.7.0
       sonic-boom: 4.0.1
       strip-json-comments: 3.1.1
