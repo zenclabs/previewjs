@@ -3143,8 +3143,8 @@ importers:
         specifier: ^11.2.1
         version: 11.2.1
       pnpm:
-        specifier: ^9.15.1
-        version: 9.15.1
+        specifier: ^9.15.3
+        version: 9.15.3
       rimraf:
         specifier: ^6.0.1
         version: 6.0.1
@@ -17335,8 +17335,8 @@ packages:
     resolution: {integrity: sha512-2Rb3vm+EXble/sMXNSu6eoBx8e79gKqhNq9F5ZWW6ERNCTE/Q0wQNne5541tE5vKjfM8hpNCYL+LGc1YTfI0dg==}
     engines: {node: '>=6'}
 
-  pnpm@9.15.1:
-    resolution: {integrity: sha512-GstWXmGT7769p3JwKVBGkVDPErzHZCYudYfnHRncmKQj3/lTblfqRMSb33kP9pToPCe+X6oj1n4MAztYO+S/zw==}
+  pnpm@9.15.3:
+    resolution: {integrity: sha512-H3m8JFpm6wsHxdTYMTEkB3RkLKqobvfQQ0q0fA0W9msE4h4MCG62HmLHfvxNf37Aca+tN5avZIkvrmZQkXOJOg==}
     engines: {node: '>=18.12'}
     hasBin: true
 
@@ -47039,7 +47039,7 @@ snapshots:
     transitivePeerDependencies:
       - typescript
 
-  pnpm@9.15.1: {}
+  pnpm@9.15.3: {}
 
   polished@4.2.2:
     dependencies:
