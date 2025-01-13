@@ -43,7 +43,7 @@
     "pino-pretty": "^11.2.1",
     "preact": "^10.25.3",
     "rimraf": "^6.0.1",
-    "unbuild": "^2.0.0",
+    "unbuild": "^3.3.1",
     "vite": "^6.0.5",
     "vitest": "^2.1.8"
   }
