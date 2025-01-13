@@ -43,7 +43,7 @@
     "pino": "^9.5.0",
     "pino-pretty": "^11.2.1",
     "solid-js": "^1.9.3",
-    "unbuild": "^2.0.0",
+    "unbuild": "^3.3.1",
     "vite": "^6.0.5",
     "vitest": "^2.1.8"
   }

@@ -46,7 +46,7 @@
     "@types/fs-extra": "^11.0.4",
     "pino": "^9.5.0",
     "pino-pretty": "^11.2.1",
-    "unbuild": "^2.0.0",
+    "unbuild": "^3.3.1",
     "vitest": "^2.1.8"
   }
 }
