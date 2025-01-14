@@ -28,9 +28,9 @@
     "build": "tsc && unbuild"
   },
   "devDependencies": {
-    "@types/react": "^18.3.18",
+    "@types/react": "^19.0.7",
     "next": "^13.4.7",
-    "react": "^18.3.1",
+    "react": "^19.0.0",
     "typescript": "^5.7.2",
     "unbuild": "^2.0.0"
   },
