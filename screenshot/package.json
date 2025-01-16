@@ -33,7 +33,7 @@
     "playwright": "^1.49.1"
   },
   "devDependencies": {
-    "@types/node": "^20.17.10",
+    "@types/node": "^22.10.7",
     "typescript": "^5.7.2",
     "unbuild": "^2.0.0"
   }
